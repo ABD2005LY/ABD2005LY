@@ -1,61 +1,63 @@
 <div align="center">
 
-<!-- Elegant Header -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Abdo%20Mussa&fontSize=48&fontColor=2f3e46&animation=fadeIn" />
+<!-- Card Header -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:e9ecef,100:f8f9fa&height=120&section=header&text=Abdulrahman%20Rashdi&fontSize=42&fontColor=212529" />
 
-### Software Engineer · Flutter Developer · UI/UX Designer  
-Designing thoughtful digital experiences with precision and clarity
+### Flutter Developer · UI/UX Designer  
+Building clear, human-centered digital products
 
 </div>
 
 ---
 
-## ✦ Profile Overview
+## ── Profile Card ──
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdoMussa&style=flat&color=6c757d" />
-  <img src="https://img.shields.io/github/followers/AbdoMussa?style=flat&color=495057" />
-</p>
+**Name**  
+عبد الرحمن رشدي  
 
----
+**Focus**  
+Flutter Development · UI/UX Design · Product Thinking  
 
-## ✦ About
-
-I focus on building **clean, well-structured applications** with a strong emphasis on  
-**user experience, design systems, and maintainable code**.
-
-My approach values:
-- Simplicity over complexity  
-- Consistency over trends  
-- Quality over quantity  
+**Approach**  
+Clean design, clear structure, and practical solutions  
+that balance usability with aesthetics.
 
 ---
 
-## ✦ Core Skills
+## ── Tools I Work With ──
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,figma,git&theme=light" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-222222?style=flat&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-222222?style=flat&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-222222?style=flat&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-222222?style=flat&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whimsical-222222?style=flat&logo=whimsical&logoColor=white" />
+</p>
+
 ---
 
-## ✦ Work Philosophy
+## ── What I Value ──
 
-> *“Good software is quiet.  
-Great software feels effortless.”*
+- Simplicity over visual noise  
+- Consistency across design systems  
+- Products that feel intuitive without explanation  
 
 ---
 
-## ✦ GitHub Activity
+## ── GitHub Snapshot ──
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdoMussa&show_icons=true&hide_title=true&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=graywhite" />
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=—&fontSize=40&fontColor=adb5bd" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=60&section=footer&color=0:f8f9fa,100:e9ecef" />
 
 </div>
