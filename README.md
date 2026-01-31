@@ -10,11 +10,7 @@ Designing clear, thoughtful, and human-centered products
 
 ---
 
-## ── Profile Card ──
-
-**Name (Arabic)**  
-عبد الرحمن رشدي  
-
+## ── Profile Card ── 
 **Name (English)**  
 Abdulrahman Rashdi  
 
@@ -31,7 +27,7 @@ that feel intuitive and purposeful.
 ## ── Tools I Work With ──
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,git,Framer&theme=light" />
 </p>
 
 <p align="left">
