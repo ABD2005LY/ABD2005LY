@@ -11,10 +11,7 @@ Building clear, human-centered digital products
 ---
 
 ## ── Profile Card ──
-
-**Name**  
-عبد الرحمن رشدي  
-
+عبد الرحمن رشدي
 **Focus**  
 Flutter Development · UI/UX Design · Product Thinking  
 
@@ -35,7 +32,6 @@ that balance usability with aesthetics.
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-222222?style=flat&logo=adobeillustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-222222?style=flat&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-222222?style=flat&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Whimsical-222222?style=flat&logo=whimsical&logoColor=white" />
 </p>
 
 ---
