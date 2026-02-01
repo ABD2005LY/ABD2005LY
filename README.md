@@ -11,7 +11,7 @@ Designing clear, thoughtful, and human-centered products
 ---
 
 ## ── Profile Card ── 
-**Name (English)**  
+**Name **  
 Abdulrahman Rashdi  
 
 **Focus**  
@@ -47,17 +47,3 @@ that feel intuitive and purposeful.
 - Simple solutions to complex problems  
 
 ---
-
-## ── GitHub Snapshot ──
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=graywhite" />
-</p>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=60&section=footer&color=0:f8f9fa,100:e9ecef" />
-
-</div>
